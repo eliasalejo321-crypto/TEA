@@ -1,0 +1,83 @@
+El tránsito desde el planteamiento del problema hacia su análisis dogmático exige descender del plano de la descripción al del derecho positivo. Hasta aquí se ha sostenido que las declaraciones y garantías y las cláusulas de indemnización constituyen figuras importadas del common law cuya naturaleza y eficacia no han sido resueltas por el ordenamiento mexicano. Corresponde ahora confrontar esas figuras con las normas vigentes que habrán de regirlas, pues solo el contraste con el texto de la ley permite determinar si el sistema nacional dispone de categorías capaces de alojarlas o si, por el contrario, su recepción tropieza con límites que la práctica suele pasar por alto. El presente capítulo inicia ese examen describiendo el fenómeno del trasplante jurídico y analizando, una por una, las instituciones del derecho civil y mercantil mexicano que guardan mayor proximidad con las representations and warranties: la libertad de configuración del contrato y sus límites, el saneamiento por evicción, el saneamiento por vicios ocultos y los vicios del consentimiento.
+
+## 3.1 El trasplante jurídico de figuras contractuales anglosajonas
+
+La doctrina comparada denomina trasplante jurídico al fenómeno por el cual una institución gestada en un ordenamiento se incorpora a otro distinto. El SPA mexicano es un ejemplo paradigmático: su estructura, su terminología y su lógica proceden del derecho angloamericano, mientras que la ley que habrá de interpretarlo pertenece a la tradición romano-germánica. El problema no es la importación en sí, sino que esta se ha producido por la vía de la práctica, sin mediación legislativa, de modo que las cláusulas conservan su forma originaria pero quedan privadas del entramado de remedios, plazos y doctrinas que en su sistema de origen les daban sentido. La tarea del intérprete consiste, entonces, en reconstruir ese sentido a partir de las categorías propias del derecho mexicano, verificando hasta qué punto resultan idóneas para gobernar una figura que no fue pensada para ellas.
+
+El punto de partida de ese análisis es la determinación del régimen aplicable al contrato. Tratándose de la compraventa de acciones de una sociedad mercantil con propósito especulativo, el SPA es un acto de comercio, por lo que se rige por el Código de Comercio y, supletoriamente, por la legislación civil federal. Esta doble fuente normativa no es un dato menor: condiciona los principios que disciplinan la autonomía de la voluntad, los remedios disponibles y los plazos de prescripción, como se verá a lo largo del capítulo.
+
+## 3.2 La libertad contractual y sus límites
+
+El primer fundamento al que suele acudirse para sostener la validez de las declaraciones y garantías y del régimen de indemnización pactado es el principio de autonomía de la voluntad. En materia mercantil, este principio alcanza su expresión más amplia en el artículo 78 del Código de Comercio, conforme al cual:
+
+>> En las convenciones mercantiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que la validez del acto comercial dependa de la observancia de formalidades o requisitos determinados.
+
+En el ámbito civil supletorio, la libertad de configuración encuentra apoyo en el artículo 1839 del Código Civil Federal, que reconoce a los contratantes la facultad de incorporar al contrato el contenido que estimen conveniente:
+
+>> Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieran a requisitos esenciales del contrato, o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la ley.
+
+A su vez, el artículo 1796 del mismo ordenamiento consagra la fuerza obligatoria del contrato y, de manera decisiva para el problema que nos ocupa, extiende el vínculo más allá de lo expresamente pactado, integrándolo con la buena fe, el uso y la ley:
+
+>> Los contratos se perfeccionan por el mero consentimiento, excepto aquellos que deben revestir una forma establecida por la ley. Desde que se perfeccionan obligan a los contratantes, no sólo al cumplimiento de lo expresamente pactado, sino también a las consecuencias que, según su naturaleza, son conforme a la buena fe, al uso o a la ley.
+
+De estos preceptos se desprende que las partes de un SPA pueden, en principio, asumir las obligaciones de garantía que tengan por convenientes y articular sobre ellas un régimen de consecuencias patrimoniales a su medida. Sin embargo, esa libertad no es absoluta. El propio sistema la subordina al respeto de las normas imperativas y del orden público, según resulta del artículo 8 del Código Civil Federal:
+
+>> Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos, excepto en los casos en que la ley ordene lo contrario.
+
+La tensión entre la autonomía de la voluntad y las normas imperativas, anunciada en el planteamiento del problema, se concreta así en una cuestión de límites: hasta dónde pueden los contratantes desplazar el régimen legal supletorio mediante sus pactos. Determinar esos límites exige examinar las figuras del derecho civil que el SPA roza al regular las consecuencias de la inexactitud de las declaraciones, a saber, el saneamiento y los vicios del consentimiento.
+
+## 3.3 El saneamiento por evicción
+
+La primera figura civil cercana a las declaraciones y garantías es la obligación de saneamiento por evicción, que el ordenamiento impone al enajenante con independencia de todo pacto. El artículo 2120 del Código Civil Federal es categórico:
+
+>> Todo el que enajena está obligado a responder de la evicción, aunque nada se haya expresado en el contrato.
+
+El supuesto que activa esta garantía aparece definido en el artículo 2119, que circunscribe la evicción a la privación del bien por sentencia firme fundada en un derecho anterior a la adquisición:
+
+>> Habrá evicción cuando el que adquirió alguna cosa fuere privado del todo o parte de ella por sentencia que cause ejecutoria, en razón de algún derecho anterior a la adquisición.
+
+La relevancia de esta figura para el SPA es doble. Por un lado, demuestra que el derecho mexicano conoce y regula obligaciones de garantía que operan como un elemento natural del contrato, lo que ofrece un primer punto de anclaje para las declaraciones sobre la titularidad de las acciones transmitidas. Por otro lado, y de manera aún más significativa, el artículo 2121 reconoce expresamente que el régimen de evicción es disponible para las partes, que pueden agravarlo, atenuarlo o incluso excluirlo:
+
+>> Los contratantes pueden aumentar o disminuir convencionalmente los efectos de la evicción, y aun convenir en que ésta no se preste en ningún caso.
+
+Esta norma resulta de la mayor importancia para la tesis, pues constituye un reconocimiento legislativo de que las garantías propias de la enajenación admiten configuración convencional. Si la ley permite a las partes modular e incluso suprimir una garantía que ella misma impone, con mayor razón habrá de admitirse que pacten garantías adicionales y que regulen sus consecuencias, como hacen las declaraciones y garantías del SPA. No obstante, conviene advertir que el ámbito propio de la evicción —la privación del bien por un derecho de tercero— es más estrecho que el de las declaraciones y garantías, que cubren además la situación financiera, fiscal, laboral y contractual de la sociedad. La evicción, por tanto, ilumina la lógica de la garantía convencional, pero no agota el contenido de las representations and warranties.
+
+## 3.4 El saneamiento por vicios ocultos
+
+La segunda figura civil próxima es el saneamiento por vicios ocultos, que protege al adquirente frente a los defectos no aparentes de la cosa. El artículo 2142 del Código Civil Federal delimita la obligación en los contratos conmutativos:
+
+>> En los contratos conmutativos, el enajenante está obligado al saneamiento por los defectos ocultos de la cosa enajenada que la haga impropia para los usos a que se la destina, o que disminuyan de tal modo este uso, que a haberlo conocido el adquirente no hubiere hecho la adquisición o habría dado menos precio por la cosa.
+
+El régimen excluye, sin embargo, los defectos aparentes y aquellos que un adquirente perito hubiera debido conocer, conforme al artículo 2143:
+
+>> El enajenante no es responsable de los defectos manifiestos o que estén a la vista, ni tampoco de los que no lo están, si el adquirente es un perito que por razón de su oficio o profesión debe fácilmente conocerlos.
+
+Esta exclusión guarda un paralelismo notable con la función de la auditoría legal (due diligence) y de la carta de revelaciones en el SPA: lo que el comprador conoció o debió conocer deja de comprometer la responsabilidad del vendedor. Frente al vicio oculto, el artículo 2144 confiere al adquirente una doble vía de reparación, la acción redhibitoria y la estimatoria o quanti minoris:
+
+>> En los casos del artículo 2142, puede el adquirente exigir la rescisión del contrato y el pago de los gastos que por él hubiere hecho, o que se le rebaje una cantidad proporcionada del precio, a juicio de peritos.
+
+El obstáculo decisivo que esta figura plantea reside en su brevísimo plazo de ejercicio. El artículo 2149 sujeta las acciones nacidas del saneamiento por vicios ocultos a una caducidad de seis meses:
+
+>> Las acciones que nacen de lo dispuesto en los artículos del 2142 al 2148, se extinguen a los seis meses, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2138 y 2139.
+
+Aquí aflora una de las tensiones centrales anunciadas en el planteamiento. Si las declaraciones y garantías se calificaran como una manifestación del saneamiento por vicios ocultos, las reclamaciones del comprador quedarían sujetas a un plazo de apenas seis meses, radicalmente inferior a los periodos de supervivencia que la práctica del SPA pacta para las declaraciones —con frecuencia de doce a veinticuatro meses para las ordinarias y plazos mayores para las fundamentales y fiscales—. La caracterización de la figura no es, pues, una disquisición teórica: determina si el régimen contractual de survival opera válidamente o si choca con un plazo legal de caducidad que las partes no podrían ampliar libremente.
+
+## 3.5 Los vicios del consentimiento: error y dolo
+
+La tercera figura civil relevante no atañe al cumplimiento del contrato, sino a su formación. Si las declaraciones del vendedor se conciben como afirmaciones de hecho que determinan la decisión de contratar del comprador, su falsedad podría analizarse como un vicio del consentimiento. El artículo 1812 del Código Civil Federal enuncia el principio:
+
+>> El consentimiento no es válido si ha sido dado por error, arrancado por violencia o sorprendido por dolo.
+
+El dolo, particularmente pertinente cuando el vendedor conoce la inexactitud de lo que declara, se define en el artículo 1815:
+
+>> Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes; y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+
+Y el artículo 1816 precisa el efecto invalidante del dolo cuando ha sido la causa determinante del acto:
+
+>> El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+
+Esta vía conduce a consecuencias por completo distintas de las propias del incumplimiento contractual: no a la indemnización pactada conforme al régimen de cap y basket, sino a la nulidad del contrato y a la restitución de las prestaciones, con su propio régimen probatorio y temporal. La eventual caracterización de la declaración falsa como dolo plantea, además, un problema adicional que la práctica anglosajona discute bajo la rúbrica del sandbagging y que en el derecho mexicano debe resolverse a la luz de la buena fe consagrada en el artículo 1796: la situación del comprador que reclama por la inexactitud de una declaración cuyo carácter falso conocía al contratar.
+
+## 3.6 Recapitulación y tránsito al problema de la naturaleza jurídica
+
+El recorrido anterior permite extraer una conclusión provisional. El derecho mexicano no desconoce las obligaciones de garantía ni la protección frente a la información asimétrica; antes bien, dispone de un repertorio de figuras —la garantía convencional de evicción, el saneamiento por vicios ocultos y los vicios del consentimiento— que guardan parentesco con las declaraciones y garantías del SPA. Sin embargo, ninguna de ellas coincide plenamente con la figura anglosajona: la evicción se ciñe a la privación del bien por un tercero; el saneamiento por vicios ocultos somete la reclamación a un plazo de seis meses incompatible con la práctica del SPA; y los vicios del consentimiento conducen a la nulidad y no a la indemnización pactada. Cada caracterización arrastra, además, un plazo de prescripción distinto, oscilando entre la caducidad semestral del saneamiento, los diez años de la prescripción civil ordinaria del artículo 1159 del Código Civil Federal —"Fuera de los casos de excepción, se necesita el lapso de diez años, contado desde que una obligación pudo exigirse, para que se extinga el derecho de pedir su cumplimiento"— y la prescripción mercantil ordinaria del artículo 1047 del Código de Comercio, que se completa igualmente por el transcurso de diez años. La pregunta por la naturaleza jurídica de las representations and warranties, lejos de resolverse, se revela así como el verdadero núcleo del problema, cuyo desarrollo se aborda en el capítulo siguiente.
