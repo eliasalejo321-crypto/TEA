@@ -20,7 +20,7 @@ AZUL = colors.HexColor("#0A2342")
 GRIS = colors.HexColor("#888888")
 
 # ---- DATOS DE PORTADA (editar aquí) ----
-NOMBRE_SUSTENTANTE = "ELÍAS ALEJO"   # <-- confirmar nombre completo y apellidos
+NOMBRE_SUSTENTANTE = "ELÍAS ALEJO CEDILLO"
 
 # ---------- Estilos de cuerpo ----------
 body = ParagraphStyle("body", fontName="Times-Roman", fontSize=12, leading=18,
