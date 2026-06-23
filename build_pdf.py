@@ -37,6 +37,12 @@ quote = ParagraphStyle("quote", parent=body, fontName="Times-Italic", firstLineI
 research_q = ParagraphStyle("rq", parent=body, fontName="Times-Italic", firstLineIndent=0,
                             leftIndent=1.0 * cm, rightIndent=1.0 * cm)
 
+# Agradecimientos
+agra_title = ParagraphStyle("agra_title", fontName="Times-Bold", fontSize=14, leading=20,
+                            alignment=TA_CENTER, spaceBefore=10, spaceAfter=22, textColor=AZUL)
+agra = ParagraphStyle("agra", fontName="Times-Roman", fontSize=12, leading=19,
+                      alignment=TA_JUSTIFY, firstLineIndent=1.25 * cm, spaceAfter=6)
+
 # Portada
 c_inst = ParagraphStyle("c_inst", fontName="Times-Bold", fontSize=14, leading=18,
                         alignment=TA_CENTER, textColor=AZUL)
@@ -71,6 +77,7 @@ def read_blocks(path):
 
 # Estructura del índice: (nivel, texto, clave_de_búsqueda | None)
 TOC = [
+    (0, "AGRADECIMIENTOS", "AGRADECIMIENTOS"),
     (0, "INTRODUCCIÓN", "I. INTRODUCCIÓN"),
     (0, "PLANTEAMIENTO DEL PROBLEMA", "II. PLANTEAMIENTO DEL PROBLEMA"),
     (1, "Pregunta de investigación", None),
@@ -120,6 +127,22 @@ def on_cover_page(canvas, doc):
     canvas.setLineWidth(0.5)
     canvas.rect(1.65 * cm, 1.65 * cm, letter[0] - 3.3 * cm, letter[1] - 3.3 * cm)
     canvas.restoreState()
+
+
+def on_prelim_page(canvas, doc):
+    """Páginas preliminares (agradecimientos): sin encabezado, con número de página."""
+    canvas.saveState()
+    canvas.setFont("Times-Roman", 10)
+    canvas.setFillColor(colors.HexColor("#555555"))
+    canvas.drawCentredString(letter[0] / 2.0, 1.3 * cm, str(doc.page))
+    canvas.restoreState()
+
+
+def agradecimientos_story():
+    s = [Spacer(1, 1.0 * cm), Paragraph("AGRADECIMIENTOS", agra_title)]
+    for p in read_blocks(os.path.join(CONTENT, "agradecimientos.txt")):
+        s.append(Paragraph(esc(p), agra))
+    return s
 
 
 def cover_story():
@@ -205,9 +228,12 @@ def build(pages):
                           letter[1] - doc.topMargin - doc.bottomMargin, id="content")
     doc.addPageTemplates([
         PageTemplate(id="cover", frames=[cover_frame], onPage=on_cover_page),
+        PageTemplate(id="prelim", frames=[content_frame], onPage=on_prelim_page),
         PageTemplate(id="content", frames=[content_frame], onPage=on_content_page),
     ])
     story = cover_story()
+    story += [NextPageTemplate("prelim"), PageBreak()]
+    story += agradecimientos_story()
     story += [NextPageTemplate("content"), PageBreak()]
     story += index_story(pages)
     story += [PageBreak()]
@@ -227,7 +253,8 @@ def detect_pages():
     for _, _, key in TOC:
         if not key:
             continue
-        for i in range(start, d.page_count):
+        rng = range(1, d.page_count) if key == "AGRADECIMIENTOS" else range(start, d.page_count)
+        for i in rng:
             if d[i].search_for(key):
                 pages[key] = i + 1
                 break
