@@ -13,6 +13,10 @@ Esta no es una recopilación de apuntes: es una **herramienta de alto rendimient
 
 > **Lee primero [`00-analisis-del-profesor.md`](./00-analisis-del-profesor.md).** Te explica cómo piensa el sínodo, qué autores privilegia, cómo redacta sus preguntas y dónde concentrar el esfuerzo. Es el documento más importante de toda la guía.
 
+## ⏱️ ¿Tienes poco tiempo?
+
+> **Si solo te quedan unas horas, ve directo a [`PLAN-EXPRESS-4-HORAS.md`](./PLAN-EXPRESS-4-HORAS.md).** Es un plan cronometrado de máximo rendimiento: las 20 definiciones de oro, los 3 contrastes estrella, la tabla de autores, México en 35 minutos, mnemotecnias relámpago y un machote de respuesta para sacar 9 o 10 estudiando lo esencial.
+
 ---
 
 ## 🗺️ Cómo se mapean los 20 temas del profesor en esta guía
