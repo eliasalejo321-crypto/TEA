@@ -22,17 +22,45 @@ Esta guía tiene **dos capas que se complementan**:
 
 | Bloque | Tiempo | Qué estudiar | Meta |
 |---|---|---|---|
-| **1. Cimientos** | 0:00–0:35 | Tablas de memoria + Temas 8, 9, 12, 17, 18 (concepto, métodos, órganos, elementos, fines) | Saber *qué es* el Estado y cómo se estudia |
+| **1. Cimientos** | 0:00–0:35 | **Hilo conductor (las 5 preguntas)** + Temas 8, 9, 12, 17, 18 (concepto, métodos, órganos, elementos, fines) | Entender la lógica: *qué es* el Estado y cómo se estudia |
 | **2. Pensadores** | 0:35–1:15 | Temas 1, 5, 7, 11 (Locke, división de poderes, idealistas, soberanía) + Parte B U2-U3 | Quién dijo qué |
 | **3. Formas y federalismo** | 1:15–2:00 | Temas 2, 3, 6, 10, 13, 15 (federalismo de EE. UU., garantía federal, Groppali, formas de gobierno, centralismo) | Distinguir forma de Estado vs. de gobierno; federación vs. centralismo |
 | **4. México y Constitución** | 2:00–2:35 | Temas 4, 14, 16, 19, 20 (división de funciones, Derecho político, órganos autónomos, Derecho electoral, supremacía) | Aterrizar todo en la CPEUM |
 | **5. Simulacro** | 2:35–3:00 | Parte B: resuelve el simulador de opción múltiple y revisa errores comunes | Fijar y detectar huecos |
 
-> **Si solo tienes 90 min:** estudia las **Tablas de memoria** + los **20 temas (Parte A)** y resuelve el simulador. Es lo mínimo para aprobar.
+> **Si solo tienes 90 min:** estudia el **Hilo conductor (5 preguntas)** + los **20 temas (Parte A)** y resuelve el simulador. Es lo mínimo para aprobar — y se entiende, no se memoriza.
 
 ---
 
-## 🧠 TABLAS DE MEMORIA RÁPIDA (imprímelas mentalmente)
+## 🔑 CÓMO APRENDER ESTO SIN MEMORIZAR: el hilo conductor (cimiento + estrategia)
+
+> **No memorices autores sueltos: entiende UNA conversación.** Toda la historia del pensamiento político es una sola discusión, de 2,400 años, sobre **el poder**. Cada pensador es una **respuesta** a una pregunta y casi siempre una **reacción** al anterior. Si entiendes las preguntas y las reacciones, la "tabla de autores" la **reconstruyes solo**, sin memorizarla.
+
+**Toda la materia cabe en 5 preguntas. Asocia cada autor a la pregunta que respondió:**
+
+1. **¿De dónde NACE el Estado/poder?** (origen y justificación)
+   - *Natural* → **Aristóteles** (el hombre es social por naturaleza). · *Por un pacto* → **contractualistas** (Hobbes, Locke, Rousseau). · *Organismo vivo* → **Spencer**. · *Evolución científica* → **Comte**. · *Idea ética / razón* → **Hegel, Kant**. · *Lucha de clases* → **Marx**.
+2. **¿En QUIÉN reside la soberanía?** (de quién es el poder) — *esta es una cadena de reacción:*
+   - **Marsilio de Padua** dice "del **pueblo**" (s. XIV, germen) → **Bodino** responde "no, del **rey**: poder absoluto y perpetuo" (s. XVI) → **Rousseau** revira "del **pueblo** otra vez, como **voluntad general**" (s. XVIII). · **El art. 39 de la CPEUM es Rousseau convertido en norma.**
+3. **¿Cómo se LIMITA el poder para que no sea tiranía?**
+   - **Locke**: dividir en legislativo-ejecutivo-**federativo** + derechos naturales → **Montesquieu** lo perfecciona: legislativo-ejecutivo-**judicial**, "el poder detiene al poder" → hoy: **Estado de Derecho** (art. 49).
+4. **¿PARA QUÉ existe el Estado?** (su fin)
+   - **Aristóteles**: la **felicidad** (eudemonismo) → tradición del **bien común** → **Marx**: para dominar → **Welfare State**: derechos sociales.
+5. **¿Cómo se ESTUDIA científicamente el Estado?** (s. XX)
+   - **Jellinek** (los dos lados: social + jurídico; órganos) · **Kelsen** (puro orden jurídico) · **Heller** (realidad social) · **Carré de Malberg** (un solo poder, varias funciones).
+
+**Método de estudio en 5 pasos (hazlo con la tabla de abajo tapada):**
+1. **Cimiento:** lee la pregunta (p. ej., "¿de quién es la soberanía?").
+2. **Ubica** a cada autor como respuesta a esa pregunta.
+3. **Contrasta por pares** (así se fija por oposición, no por repetición): Hobbes (miedo→absolutismo) ⟷ Locke (propiedad→liberalismo) ⟷ Rousseau (bondad→voluntad general); Bodino (rey) ⟷ Rousseau (pueblo); Locke (3 poderes con *federativo*) ⟷ Montesquieu (3 poderes con *judicial*).
+4. **Ancla con una frase-firma con sentido** (no un acrónimo hueco): *Hobbes = "el hombre es el lobo del hombre"; Maquiavelo = separa política y moral; Bodino = "absoluto y perpetuo"*.
+5. **Recall activo:** tapa la tabla y **explícala en voz alta** diciendo *por qué* cada autor pensó eso y contra quién. Si puedes explicarlo, lo sabes; si solo lo repites, lo olvidas.
+
+> **Atajo mental que lo amarra todo:** sigue a **un solo personaje —la soberanía— a través del tiempo**: nace en el pueblo (Marsilio), se la queda el rey (Bodino), Hobbes la blinda (absoluta), Locke y Montesquieu la **parten** para controlarla, Rousseau se la **devuelve al pueblo**, y México la escribe en el **art. 39**. Con esa sola película reconstruyes 6 autores y 3 artículos.
+
+---
+
+## 🧠 TABLA DE CONSULTA RÁPIDA — *úsala para repasar DESPUÉS de entender el hilo de arriba*
 
 ### Quién dijo qué (lo más preguntado)
 | Autor | Aportación clave que debes citar |
