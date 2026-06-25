@@ -18,17 +18,20 @@ Esta guía tiene **dos capas que se complementan**:
 
 ---
 
-## ⏱️ PLAN DE ESTUDIO EN 3 HORAS (ruta estratégica)
+## ⏱️ PLAN DE ESTUDIO EN 2 H 40 MIN (tu tiempo real, ruta para CONECTAR no memorizar)
 
-| Bloque | Tiempo | Qué estudiar | Meta |
+> Regla: en cada bloque **no leas pasivamente**; al terminar, **tapa y explica en voz alta** la conexión (recall activo). Así se fija.
+
+| Bloque | Reloj | Qué haces (conectar, no memorizar) | Meta |
 |---|---|---|---|
-| **1. Cimientos** | 0:00–0:35 | **Hilo conductor (las 5 preguntas)** + Temas 8, 9, 12, 17, 18 (concepto, métodos, órganos, elementos, fines) | Entender la lógica: *qué es* el Estado y cómo se estudia |
-| **2. Pensadores** | 0:35–1:15 | Temas 1, 5, 7, 11 (Locke, división de poderes, idealistas, soberanía) + Parte B U2-U3 | Quién dijo qué |
-| **3. Formas y federalismo** | 1:15–2:00 | Temas 2, 3, 6, 10, 13, 15 (federalismo de EE. UU., garantía federal, Groppali, formas de gobierno, centralismo) | Distinguir forma de Estado vs. de gobierno; federación vs. centralismo |
-| **4. México y Constitución** | 2:00–2:35 | Temas 4, 14, 16, 19, 20 (división de funciones, Derecho político, órganos autónomos, Derecho electoral, supremacía) | Aterrizar todo en la CPEUM |
-| **5. Simulacro** | 2:35–3:00 | Parte B: resuelve el simulador de opción múltiple y revisa errores comunes | Fijar y detectar huecos |
+| **1. Cimiento + hilo conductor** | 0:00–0:30 | Las **5 preguntas** + Temas 8, 9, 12, 17, 18 (qué es el Estado, métodos, órganos, elementos, fines) | Entender la lógica base |
+| **2. Estructuras deducibles** | 0:30–0:55 | **Formas de Aristóteles (2 criterios)** + **Artículos como "biografía del Estado"** + teorías del origen (1 pregunta) | Generar lo "de memoria" razonando |
+| **3. Pensadores en cadena** | 0:55–1:30 | Temas 1, 5, 7, 11 (Locke, división de poderes, idealistas, soberanía) siguiendo la "película de la soberanía" | Quién dijo qué y *por qué* |
+| **4. Formas y federalismo** | 1:30–2:05 | Temas 2, 3, 6, 10, 13, 15 (federalismo EE. UU., garantía federal, Groppali, centralismo) por **contraste** | Forma de Estado ≠ de gobierno; federación ≠ centralismo |
+| **5. México en la CPEUM** | 2:05–2:25 | Temas 4, 14, 16, 19, 20 (división de funciones, Derecho político, órganos autónomos, electoral, supremacía) | Aterrizar todo en la Constitución |
+| **6. Recall activo + simulacro** | 2:25–2:40 | Resuelve 15–20 reactivos del simulador (Parte B) y revisa **solo** los que falles | Detectar y tapar huecos |
 
-> **Si solo tienes 90 min:** estudia el **Hilo conductor (5 preguntas)** + los **20 temas (Parte A)** y resuelve el simulador. Es lo mínimo para aprobar — y se entiende, no se memoriza.
+> **Si te quedas corto de tiempo:** prioriza Bloques 1, 2 y 6. Con el hilo conductor + las estructuras deducibles + el simulacro, apruebas razonando.
 
 ---
 
@@ -57,6 +60,51 @@ Esta guía tiene **dos capas que se complementan**:
 5. **Recall activo:** tapa la tabla y **explícala en voz alta** diciendo *por qué* cada autor pensó eso y contra quién. Si puedes explicarlo, lo sabes; si solo lo repites, lo olvidas.
 
 > **Atajo mental que lo amarra todo:** sigue a **un solo personaje —la soberanía— a través del tiempo**: nace en el pueblo (Marsilio), se la queda el rey (Bodino), Hobbes la blinda (absoluta), Locke y Montesquieu la **parten** para controlarla, Rousseau se la **devuelve al pueblo**, y México la escribe en el **art. 39**. Con esa sola película reconstruyes 6 autores y 3 artículos.
+
+---
+
+## 🧩 ESTRUCTURAS PARA DEDUCIR (no memorizar) — formato guía B
+
+**Importancia: ★★★★★.** *Aquí no aprendes listas: aprendes la **regla** que las genera. Si entiendes la regla, escribes la lista aunque la olvides.*
+
+### E.1. Formas de gobierno de Aristóteles: dedúcelas con 2 preguntas (no memorices 6)
+- No memorices 6 casillas: **genéralas** cruzando dos criterios.
+  - **Criterio 1 — ¿cuántos gobiernan?** → Uno · Pocos · Muchos.
+  - **Criterio 2 — ¿para quién gobiernan?** → bien común (**pura**) · interés propio (**impura**).
+- Cruzas 3 × 2 = 6, y cada **impura es la degeneración** de su pura:
+
+| ¿Cuántos? | Pura (bien común) | Se degenera en → Impura (interés propio) |
+|---|---|---|
+| Uno | Monarquía | Tiranía |
+| Pocos | Aristocracia | Oligarquía |
+| Muchos | Politeia / Democracia | Demagogia |
+
+- **Conexión (no dato aislado):** **Polibio** dice que estas formas giran en un **ciclo** (*anaciclosis*) y por eso propone el **gobierno mixto** (combinar las tres puras) como el estable → **Roma**. **Platón** da su propia secuencia de degeneración.
+- **Errores comunes:** 1) invertir pura/impura; 2) confundir **forma de gobierno** (quién y para quién manda) con **forma de Estado** (cómo se reparte el poder en el territorio).
+
+### E.2. Los artículos de la CPEUM no son una lista: son la "biografía del Estado"
+- Léelos como **una sola historia encadenada** ("¿y luego qué?"). Si cuentas la historia, citas 10 artículos sin memorizar números sueltos:
+  - **Art. 1.º** → el Estado existe para la **persona** (derechos humanos).
+  - **Art. 39** → ¿de quién es el poder? Del **pueblo** (soberanía). *(= Rousseau hecho norma.)*
+  - **Art. 40** → el pueblo elige su forma: **federal** y **república** representativa, democrática y laica.
+  - **Art. 41** → ¿cómo ejerce ese poder? Por los **Poderes de la Unión** y mediante **elecciones** (INE, partidos).
+  - **Art. 49** → esos poderes se **dividen**: Legislativo, Ejecutivo y Judicial. *(= Montesquieu.)*
+  - **Art. 115** → hacia abajo: el **municipio libre**.
+  - **Art. 119** → la Federación **protege a los estados** (garantía federal). *(= guarantee clause de EE. UU.)*
+  - **Art. 124** → lo **no** concedido a la Federación queda a los estados (**residuales**).
+  - **Art. 133** → la Constitución manda sobre todo: **supremacía**.
+  - **Art. 136** → y **no se rinde** ni ante una rebelión: **inviolabilidad**.
+- **Mnemotecnia con sentido (la película):** *persona (1) → pueblo (39) → forma (40) → ejercicio/elecciones (41) → división (49) → municipio (115) → protección (119) → residuales (124) → supremacía (133) → inviolabilidad (136).*
+- **Errores comunes:** citar el número sin la idea; confundir 39 (soberanía) con 49 (división) o con 40 (forma).
+
+### E.3. Teorías del origen del Estado: una sola pregunta lo ordena todo
+- Pregunta madre: **¿el Estado es NATURAL o CONSTRUIDO?** y, si es construido, **¿con qué?**
+  - **Natural** → Aristóteles (el hombre es social) y **organicistas** (Spencer).
+  - **Construido por un pacto** → **contractualistas** (Hobbes, Locke, Rousseau).
+  - **Construido por la historia/economía** → **Marx** (materialismo).
+  - **Construido por la razón/la idea** → **idealistas** (Kant, Hegel).
+- **Mnemotecnia con sentido:** *"Naturaleza · Pacto · Historia · Idea"* (no un acrónimo hueco: cada palabra es el **motor** del Estado en esa teoría).
+- **Errores comunes:** meter a Marx en los contractualistas; olvidar que Jellinek (contemporáneo) integra las dos caras (social + jurídica).
 
 ---
 
